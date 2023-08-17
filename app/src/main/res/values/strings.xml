@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RESTAURANT RESERVATIONS</string>
+    <string name="LogIn">RESTAURANT RESERVATION LOGIN FORM</string>
+    <string name="SignUp">RESTAURANT RESERVATIONS SIGN UP FORM</string>
+    <string name="User">RESTAURANT RESERVATION USER DETAILS</string>
+    <string name="ViewUsers">RESTAURANT RESERVATION USER PERFORMERS\' USERNAMES</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up"><u>New User? Sign Up!</u></string>
+    <string name="submit">SUBMIT</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="phoneNumber">Phone Number e.g. 0701020304</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="Sign_Up">SIGN UP</string>
+    <string name="LogInPage">Log In?</string>
+    <string name="ViewAllPerformers">VIEW ALL PERFORMERS</string>
+    <string name="SignOut">SIGN OUT</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="delete">DELETE ADMIN</string>
+    <string name="update">UPDATE ADMIN</string>
+</resources>
